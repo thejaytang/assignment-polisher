@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assignment Polisher"
+  short_description: "Polish assignment style from samples and course terms"
+  default_prompt: "Use $assignment-polisher to polish my draft against the course terminology and my writing samples without making it sound like generic AI prose."
